@@ -4,6 +4,8 @@ macOS Clipboard Bar、Menu Bar Apps
 - You can view the macOS copy history again.
 - You can choose how many copies of the copy history to save.
 - You can also delete the copy history.
+## Language
+- The language might be set to Chinese when you first open the app; you can change this in the settings.
 ## Installation
 1) Download the latest DMG
 2) Open the DMG and drag ClipboardBar into Applications.

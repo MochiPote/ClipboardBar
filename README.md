@@ -7,7 +7,8 @@ macOS Clipboard Bar、macOS 剪贴板栏
 - History size limit setting (20-200)
 - Launch at login toggle
 - In-app language switch (English / Japanese / 简体中文)
-- Universal build target (Apple Silicon + Intel)## README↓
+- Universal build target (Apple Silicon + Intel)
+## README↓
 [English](English.md)
 [日本語](日本語.md)
 [简体中文](简体中文.md)
@@ -80,6 +81,4 @@ Then on GitHub:
 This repository includes `.github/workflows/macos-build.yml` to automatically verify the project builds on every push and pull request.
 
 ## License
-
-MIT License. See [LICENSE](LICENSE).
->>>>>>> 717d625 (Initial release: ClipboardBar)
+[LICENSE](LICENSE)

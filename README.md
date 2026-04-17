@@ -4,6 +4,8 @@ macOS Clipboard Bar、macOS 剪贴板栏
 - You can view the macOS copy history again.
 - You can choose how many copies of the copy history to save.
 - You can also delete the copy history.
+## Screenshot
+No Photo まだ何もありません
 ## README↓
 [English](English.md)
 [日本語](日本語.md)

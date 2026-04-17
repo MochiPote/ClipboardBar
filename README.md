@@ -5,8 +5,7 @@ macOS Clipboard Bar、macOS 剪贴板栏
 - You can choose how many copies of the copy history to save.
 - You can also delete the copy history.
 ## Screenshot
-No Photo まだ何もありません
-## README↓
+![screenshot](https://private-user-images.githubusercontent.com/220143620/579880205-08a8ca13-0104-4ce5-8b64-0df1ce04ba59.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzY0Mjc3NzMsIm5iZiI6MTc3NjQyNzQ3MywicGF0aCI6Ii8yMjAxNDM2MjAvNTc5ODgwMjA1LTA4YThjYTEzLTAxMDQtNGNlNS04YjY0LTBkZjFjZTA0YmE1OS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwNDE3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDQxN1QxMjA0MzNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT04MGJkNzE3NDNmNzMzYjI2YjNmMmJhM2UzZjI3MzM0MTZkNTIxMjE4ZDc1N2M3NWZhYzI1NWFhNjFhY2ZkZWFkJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZyZXNwb25zZS1jb250ZW50LXR5cGU9aW1hZ2UlMkZwbmcifQ.Wo8Wfb49gKV9DRAtmmHJ_-96qoqVL-fQLf9WMvywm88)## README↓
 [English](English.md)
 [日本語](日本語.md)
 [简体中文](简体中文.md)

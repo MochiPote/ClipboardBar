@@ -1,5 +1,4 @@
 # ClipboardBar
-<<<<<<< HEAD
 macOS Clipboard Bar、macOS 剪贴板栏
 ## Highlights
 - You can view the macOS copy history again.
